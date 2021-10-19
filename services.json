@@ -6,7 +6,7 @@
     "img": "https://i.ibb.co/dm761nw/dermatologically-tested.png",
     "information": "The area of medicine that deals with the diagnosis and treatment of diseases of the skin, nails, hair, and mucous membranes is known as dermatology. A dermatologist is a medical expert in the field of dermatology who can also help address cosmetic issues and aid in revitalizing the appearance of skin, hair, and nails.",
     "suggestion": "You can consult a Dermatologist if",
-    "symptoms": "You have acne, dermatitis, eczema, fungal infections, psoriasis etc. You are suffering from hair loss. You have warts or tumours. Your skin around the nails appear damaged. You wish to get rid of wrinkles, scars, moles, birthmarks, tattoos, etc."
+    "symptoms": "You have acne, dermatitis, eczema, fungal infections, psoriasis etc.\nYou are suffering from hair loss.\nYou have warts or tumours.\nYour skin around the nails appear damaged.\nYou wish to get rid of wrinkles, scars, moles, birthmarks, tattoos, etc."
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "img": "https://i.ibb.co/hdLfrjq/therapist.png",
     "information": "A general physician is a doctor who is trained to treat almost all medical conditions or diseases that affect the body. This includes conditions related to respiratory, cardiovascular, gastrointestinal, endocrine systems, etc. A general physician provides primary treatment which does not involve surgery.",
     "suggestion": "You can consult a General Physician if",
-    "symptoms": "You are suffering from typhoid, malaria, metabolism issues etc. You wish to do a routine health check up. You are not sure of which specialist to approach for your condition. You wish to get advice on preventive care."
+    "symptoms": "You are suffering from typhoid, malaria, metabolism issues etc.\nYou wish to do a routine health check up.\nYou are not sure of which specialist to approach for your condition.\nYou wish to get advice on preventive care."
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "img": "https://i.ibb.co/HHgQgPS/ekg.png",
     "information": "The medical speciality concerned with the diagnosis, prevention, and treatment of mental disorders is known as psychiatry. These disorders may be divided into mental illnesses, personality disorders, and severe learning disabilities. A psychiatrist is a doctor who specialises in psychiatry.",
     "suggestion": "You can consult a Psychiatrist if",
-    "symptoms": "You are suffering from depression, schizophrenia, and bipolar disorder. You have anxiety, stress, alcohol addiction, etc. You need help to manage a long-term mental health condition. You need medications to treat your mental health condition. You are having suicidal thoughts."
+    "symptoms": "You are suffering from depression, schizophrenia, and bipolar disorder.\nYou have anxiety, stress, alcohol addiction, etc.\nYou need help to manage a long-term mental health condition.\nYou need medications to treat your mental health condition. You are having suicidal thoughts."
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "img": "https://i.ibb.co/19zDMh8/child.png",
     "information": "Paediatrics deals with the medical care of infants, children, and adolescents. A paediatrician is trained on diagnosing and treating acute as well as chronic illnesses in children. Since smaller bodies of infants and children are substantially different physiologically from that of adults, paediatricians take special care while diagnosing illnesses and prescribing medicines for them.",
     "suggestion": "You can consult a Pediatrician if",
-    "symptoms": "Your child has an injury, infection, condition, etc. Your child displays behavioural problems, functional disabilities, etc. Your child needs to be vaccinated. You wish to get information about your child’s health, fitness, safety, and nutrition needs. Your child needs a routine physical examination."
+    "symptoms": "Your child has an injury, infection, condition, etc.\nYour child displays behavioural problems, functional disabilities, etc.\nYour child needs to be vaccinated.\nYou wish to get information about your child’s health, fitness, safety, and nutrition needs.\nYour child needs a routine physical examination."
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "img": "https://i.ibb.co/BjbFjpK/bacteria.png",
     "information": "COVID-19 is a disease caused by SARS-CoV-2 that can trigger what doctors call a respiratory tract infection. It can affect your upper respiratory tract (sinuses, nose, and throat) or lower respiratory tract (windpipe and lungs). COVID-19 is caused by a new strain of coronavirus. ‘CO’ stands for corona, ‘VI’ for virus, and ‘D’ for disease. This disease was earlier referred to as ‘2019 novel coronavirus’. India is currently experiencing a second wave of COVID-19 cases. The death toll of COVID-19 in India is the second highest in the world. Consider an online COVID consultation with an expert Apollo Doctor if your symptoms persist.",
     "suggestion": "You can consult a Covid Consultation if",
-    "symptoms": "You have symptoms like fever, body ache, dry cough or shortness of breath. You are diabetic, have heart conditions or co-morbidities that may put you at a higher risk of developing severe COVID symptoms. You have unexplained fatigue, chills, nausea, diarrhea or loss of smell and taste."
+    "symptoms": "You have symptoms like fever, body ache, dry cough or shortness of breath.\nYou are diabetic, have heart conditions or co-morbidities that may put you at a higher risk of developing severe COVID symptoms.\nYou have unexplained fatigue, chills, nausea, diarrhea or loss of smell and taste."
   },
   {
     "id": 6,
@@ -51,6 +51,6 @@
     "img": "https://i.ibb.co/548Rp3f/brain.png",
     "information": "Cardiology is medicine speciality that involves diagnosis and treatment of disorders of the heart and certain parts of the circulatory system. A doctor who specialises in this area of medicine is known as a cardiologist.",
     "suggestion": "You can consult a Cardiologist if",
-    "symptoms": "You experience a chest discomfort. Your family has a history of heart disease. You are a smoker. Your cholesterol level is high. Your blood pressure is high."
+    "symptoms": "You experience a chest discomfort.\nYour family has a history of heart disease.\nYou are a smoker.\nYour cholesterol level is high.\nYour blood pressure is high."
   }
 ]
