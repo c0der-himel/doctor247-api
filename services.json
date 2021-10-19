@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "department": "Dermatology",
+    "description": "Specialists for skin and hair treatments. Rashes, Pimples, Acne, Hairfall, Dandruff, etc.",
+    "img": "https://i.ibb.co/dm761nw/dermatologically-tested.png",
+    "information": "The area of medicine that deals with the diagnosis and treatment of diseases of the skin, nails, hair, and mucous membranes is known as dermatology. A dermatologist is a medical expert in the field of dermatology who can also help address cosmetic issues and aid in revitalizing the appearance of skin, hair, and nails.",
+    "suggestion": "You can consult a Dermatologist if",
+    "symptoms": "You have acne, dermatitis, eczema, fungal infections, psoriasis etc.<br/>You are suffering from hair loss.<br/>You have warts or tumours.<br/>Your skin around the nails appear damaged.<br/>You wish to get rid of wrinkles, scars, moles, birthmarks, tattoos, etc."
+  },
+  {
+    "id": 2,
+    "department": "General Physician",
+    "description": "Managing acute medical conditions. Typhoid, Abdominal Pain, Migraine, Infections, etc.",
+    "img": "https://i.ibb.co/hdLfrjq/therapist.png",
+    "information": "A general physician is a doctor who is trained to treat almost all medical conditions or diseases that affect the body. This includes conditions related to respiratory, cardiovascular, gastrointestinal, endocrine systems, etc. A general physician provides primary treatment which does not involve surgery.",
+    "suggestion": "You can consult a General Physician if",
+    "symptoms": "You are suffering from typhoid, malaria, metabolism issues etc.<br/>You wish to do a routine health check up.<br/>You are not sure of which specialist to approach for your condition.<br/>You wish to get advice on preventive care."
+  },
+  {
+    "id": 3,
+    "department": "Cardiology",
+    "description": "For hear and blood pressure problems. Chest pain, Heart failure, Cholesterol, etc.",
+    "img": "https://i.ibb.co/HHgQgPS/ekg.png",
+    "information": "The medical speciality concerned with the diagnosis, prevention, and treatment of mental disorders is known as psychiatry. These disorders may be divided into mental illnesses, personality disorders, and severe learning disabilities. A psychiatrist is a doctor who specialises in psychiatry.",
+    "suggestion": "You can consult a Psychiatrist if",
+    "symptoms": "You are suffering from depression, schizophrenia, and bipolar disorder.<br/>You have anxiety, stress, alcohol addiction, etc.<br/>You need help to manage a long-term mental health condition.<br/>You need medications to treat your mental health condition.<br/>You are having suicidal thoughts."
+  },
+  {
+    "id": 4,
+    "department": "Paediatrics",
+    "description": "Specialists to care and treat children. Constipation, Puberty, Nutrition, Autism, etc.",
+    "img": "https://i.ibb.co/19zDMh8/child.png",
+    "information": "Paediatrics deals with the medical care of infants, children, and adolescents. A paediatrician is trained on diagnosing and treating acute as well as chronic illnesses in children. Since smaller bodies of infants and children are substantially different physiologically from that of adults, paediatricians take special care while diagnosing illnesses and prescribing medicines for them.",
+    "suggestion": "You can consult a Pediatrician if",
+    "symptoms": "Your child has an injury, infection, condition, etc.<br/>Your child displays behavioural problems, functional disabilities, etc.<br/>Your child needs to be vaccinated<br/>You wish to get information about your child’s health, fitness, safety, and nutrition needs.<br/>Your child needs a routine physical examination."
+  },
+  {
+    "id": 5,
+    "department": "Covid Consultation",
+    "description": "Treatment of Covid-19. Cough, Fever, Breathlessness, etc.",
+    "img": "https://i.ibb.co/BjbFjpK/bacteria.png",
+    "information": "COVID-19 is a disease caused by SARS-CoV-2 that can trigger what doctors call a respiratory tract infection. It can affect your upper respiratory tract (sinuses, nose, and throat) or lower respiratory tract (windpipe and lungs). COVID-19 is caused by a new strain of coronavirus. ‘CO’ stands for corona, ‘VI’ for virus, and ‘D’ for disease. This disease was earlier referred to as ‘2019 novel coronavirus’. India is currently experiencing a second wave of COVID-19 cases. The death toll of COVID-19 in India is the second highest in the world. Consider an online COVID consultation with an expert Apollo Doctor if your symptoms persist.",
+    "suggestion": "You can consult a Covid Consultation if",
+    "symptoms": "You have symptoms like fever, body ache, dry cough or shortness of breath.<br/>You are diabetic, have heart conditions or co-morbidities that may put you at a higher risk of developing severe COVID symptoms.<br/>You have unexplained fatigue, chills, nausea, diarrhea or loss of smell and taste."
+  },
+  {
+    "id": 6,
+    "department": "Psychiatry",
+    "description": "Specialists to help treat mental health. Anxiety, Depression, Stress, OCD, Bipolar, etc.",
+    "img": "https://i.ibb.co/548Rp3f/brain.png",
+    "information": "Cardiology is medicine speciality that involves diagnosis and treatment of disorders of the heart and certain parts of the circulatory system. A doctor who specialises in this area of medicine is known as a cardiologist.",
+    "suggestion": "You can consult a Cardiologist if",
+    "symptoms": "You experience a chest discomfort.<br/>Your family has a history of heart disease.<br/>You are a smoker.<br/>Your cholesterol level is high.<br/>Your blood pressure is high."
+  }
+]
