@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Brian O'Conner",
+    "exp": 10,
+    "fees": 999,
+    "degrees": "MBBS, MD (DVL), DNB, Fellow (Dermatosurgery & Lasers)",
+    "specialist": "DERMATOLOGIST",
+    "img": "https://i.ibb.co/jTQGC9M/brian.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Dominic Toretto",
+    "exp": 15,
+    "fees": 1111,
+    "degrees": "MBBS, MD, FID, FIAMS, CCLHA",
+    "specialist": "GENERAL PHYSICIAN",
+    "img": "https://i.ibb.co/bsYyNNt/dom.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Luke Hobbs",
+    "exp": 15,
+    "fees": 3333,
+    "degrees": "MBBS, MD (Gen Med), DM (Cardio), DNB (Cardio)",
+    "specialist": "CARDIOLOGIST",
+    "img": "https://i.ibb.co/T4Vdv99/hobbs.webp"
+  },
+  {
+    "id": 4,
+    "name": "Roman Pearce",
+    "exp": 8,
+    "fees": 777,
+    "degrees": "MBBS, MS, MCh",
+    "specialist": "PAEDIATRICIAN",
+    "img": "https://i.ibb.co/Jdxz7H6/roman.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Decard Shaw",
+    "exp": 15,
+    "fees": 2222,
+    "degrees": "MBBS, MD (Psychiatry), FIPS",
+    "specialist": "PSYCHIATRIST",
+    "img": "https://i.ibb.co/ZVwwRBh/LONDON-ENGLAND-JULY-23-Jason-Statham-attends-the-Fast-Furious-Hobbs-Shaw-Special-Screening-at-The-Cu.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Tej Parker",
+    "exp": 8,
+    "fees": 666,
+    "degrees": "MBBS (Med.),MS (ENT, & Head & Neck Surg.)",
+    "specialist": "ENT SPECIALIST",
+    "img": "https://i.ibb.co/QnDXcJs/tej.png"
+  }
+]
