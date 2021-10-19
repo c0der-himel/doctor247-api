@@ -51,6 +51,12 @@
     "img": "https://i.ibb.co/548Rp3f/brain.png",
     "information": "Cardiology is medicine speciality that involves diagnosis and treatment of disorders of the heart and certain parts of the circulatory system. A doctor who specialises in this area of medicine is known as a cardiologist.",
     "suggestion": "You can consult a Cardiologist if",
-    "symptoms": "You experience a chest discomfort.<br/>Your family has a history of heart disease.<br/>You are a smoker.<br/>Your cholesterol level is high.<br/>Your blood pressure is high."
+    "symptoms": [
+      "You experience a chest discomfort.",
+      "Your family has a history of heart disease.",
+      "You are a smoker.",
+      "Your cholesterol level is high.",
+      "Your blood pressure is high."
+    ]
   }
 ]
